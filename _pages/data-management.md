@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Data Management"
 collection: Data Management
 date: 2019-1-24
