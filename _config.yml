@@ -191,7 +191,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _data management
+  # _data-management
   - scope:
       path: ""
       type: data management
