@@ -70,15 +70,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julia Knox"
+  name             : "Baccarelli Lab"
   avatar           : "profile.png"
   bio              : "Laboratory of Precision Environmental Health - Baccarelli Lab"
   location         : "New York City"
   employer         : "Columbia University"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "knoxju"
-  twitter          : "juliameadk"
 
 
 
