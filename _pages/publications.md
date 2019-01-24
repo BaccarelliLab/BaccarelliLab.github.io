@@ -15,5 +15,5 @@ Jian V. Huang, Andres Cardenas, Elena Colicino, C. Mary Schooling, Sheryl L. Rif
 
 ## Full Publication List
 
-For a full list of publications, please visit [PubMed] (https://www.ncbi.nlm.nih.gov/pubmed/?term=baccarelli+a+%5Bauthor%5D+OR+baccarelli+aa+%5Bauthor%5D+NOT+baccarelli+AM) 
+For a full list of publications, please visit [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/?term=baccarelli+a+%5Bauthor%5D+OR+baccarelli+aa+%5Bauthor%5D+NOT+baccarelli+AM)
   
