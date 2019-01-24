@@ -68,16 +68,6 @@ analytics:
     tracking_id          :
 
 
-# Site Author
-author:
-  name             : "Baccarelli Lab"
-  avatar           : "https://pbs.twimg.com/profile_images/484392310117920768/-a-G_CZ__400x400.jpeg"
-  bio              : "Laboratory of Precision Environmental Health 
-  location         : "New York City"
-  employer         : "Columbia University"
-  github           : "BaccarelliLab"
-
-
 
 # Reading Files
 include:
