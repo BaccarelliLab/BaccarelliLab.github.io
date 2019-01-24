@@ -21,5 +21,3 @@ For more info
 More info about about our lab, visit https://www.mailman.columbia.edu/research/laboratory-environmental-precision-biosciences 
 
 Thank You!
-------
-This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. 
