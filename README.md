@@ -1,4 +1,4 @@
 ### A Github Page for the Baccarelli Lab. 
 
-This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md. This version is forked from academicpages/academicpages.github.io.
+This page was forked from [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md. This version is forked from academicpages/academicpages.github.io.
 
