@@ -9,7 +9,7 @@ author_profile: true
 
 ## Templates 
 
-[External Data Analysis Plan](https://s3.amazonaws.com/baccarellilabgithubio/TEMPLATE+Analysis+Plans_External.docx)
+[External Data Analysis Plan](https://s3.amazonaws.com/baccarellilabgithubio/TEMPLATE+Analysis+Plans_External.pdf)
 
 {% for post in site.datamanagement reversed %}
   {% include archive-single-datamanagement.html %}
