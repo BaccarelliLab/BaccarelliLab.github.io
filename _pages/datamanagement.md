@@ -1,11 +1,13 @@
 ---
 layout: archive
 title: "Data Management"
-permalink: /datamanagement/
+collection: Data Management
+date: 2019-1-24
+permalink: /_pages/datamanagement.md
 author_profile: true
 ---
 
-### Templates
+## Templates 
 
 [External Data Analysis Plan](https://s3.amazonaws.com/baccarellilabgithubio/TEMPLATE+Analysis+Plans_External.docx)
 
