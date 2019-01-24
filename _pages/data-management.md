@@ -3,7 +3,7 @@ layout: archive
 title: "Data Management"
 collection: Data Management
 date: 2019-1-24
-permalink: /data management
+permalink: /data-management
 author_profile: true
 ---
 
