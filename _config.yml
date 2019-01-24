@@ -67,7 +67,41 @@ analytics:
   google:
     tracking_id          :
 
-
+# Site Author
+author:
+  name             : "Baccarelli Lab"
+  avatar           : "https://pbs.twimg.com/profile_images/484392310117920768/-a-G_CZ__400x400.jpeg"
+  bio              : "Columbia University Mailman School of Public Health"
+  location         : "Department of Environmental Science: New York City, New York"
+  employer         :
+  googlescholar    : "https://scholar.google.com/citations?user=s6LIlNYAAAAJ&hl=en"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "BaccarelliLab"
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "ColumbiaMSPH"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        : "https://en.wikipedia.org/wiki/Columbia_University_Mailman_School_of_Public_Health"
 
 # Reading Files
 include:
