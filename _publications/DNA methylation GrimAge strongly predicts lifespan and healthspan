@@ -1,7 +1,7 @@
 ---
 title: "DNA methylation GrimAge strongly predicts lifespan and healthspan"
 collection: publications
-permalink: /publication/DNA methylation GrimAge strongly predicts lifespan and healthspan
+permalink: /publications/DNA methylation GrimAge strongly predicts lifespan and healthspan
 excerpt: 'This paper details a new DNAm-based age (epigenetic age) estimator, GrimAge. These estimators predict lifespan after adjusting for chronological age and other risk factors.  Using large scale validation data from thousands of individuals, we demonstrate that DNAm GrimAge stands out among existing epigenetic clocks in terms of its predictive ability for time‐to‐death, time‐to‐coronary heart disease, time‐to‐cancer, its strong relationship with computed tomography data for fatty liver/excess visceral fat, and age‐at‐menopause.'
 date: 2019-01-21
 venue: 'Aging'
