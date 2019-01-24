@@ -16,8 +16,7 @@ The laboratory conducts large scale environmental and epidemiology studies to in
 
 Many of the features of this GitHub focus on management systems (like Data Management), by providing collaborators access to a cohesive set of templates and protocols for data sharing. 
 
-For more info
-------
-More info about about our lab, visit https://www.mailman.columbia.edu/research/laboratory-environmental-precision-biosciences 
 
 Thank You!
+------
+More info about about our lab, visit https://www.mailman.columbia.edu/research/laboratory-environmental-precision-biosciences 
