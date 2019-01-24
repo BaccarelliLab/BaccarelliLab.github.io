@@ -20,4 +20,4 @@ Many of the features of this GitHub focus on management systems (like Data Manag
 
 Thank You!
 ------
-For more information about our lab, visit [The Official Laboratory of Precision Environmental Health Website] (https://www.mailman.columbia.edu/research/laboratory-environmental-precision-biosciences). 
+For more information about our lab, visit ["The Official Laboratory of Precision Environmental Health Website"] (https://www.mailman.columbia.edu/research/laboratory-environmental-precision-biosciences). 
