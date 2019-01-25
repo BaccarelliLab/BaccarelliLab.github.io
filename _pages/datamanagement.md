@@ -2,7 +2,7 @@
 title: "Data Management"
 collection: Data Management
 date: 2019-1-24
-permalink: /datamanagement
+permalink: /datamanagement/
 author_profile: true
 ---
 
