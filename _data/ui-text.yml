@@ -1,5 +1,4 @@
 # User interface text and labels
-#bugfree
 
 # English (default)
 # -----------------
@@ -267,5 +266,6 @@ it: &DEFAULT_IT
 it-IT:
   <<: *DEFAULT_IT
 
-# Another locale
-# --------------
+Another locale
+en-US:
+  <<: *DEFAULT_EN
