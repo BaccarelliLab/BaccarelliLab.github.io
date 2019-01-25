@@ -8,6 +8,13 @@ author_profile: true
 
 ## Welcome to the Baccarelli Lab Amazon Web Services (AWS) Page
 
+### **For Collaborators**
+
+**Data Transfers**
+
+**Data Security and Compliance**br/>
+<br>Columbia University has signed a [Business Associate Agreement (BAA)](https://cuit.columbia.edu/aws) with Amazon Web Service (AWS) in which the lab has appropriately enrolled.
+
 ### **Our AWS Set-Up**
 
 --- 
