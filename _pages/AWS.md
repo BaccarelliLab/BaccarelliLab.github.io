@@ -20,7 +20,7 @@ author_profile: true
 
 ---
 **[Simple Storage Service](https://aws.amazon.com/s3/)** <br/>
-<br>S3 is a secure, object-based storage service. S3 provides safe back-up of data, and provides data on-demand when through configuraton with EC2 instances.
+<br>S3 is a secure, object-based storage service. S3 provides safe back-up of data, and provides data on-demand through configuraton with EC2 instances.
 
 ---
 **[CloudBerry](https://www.cloudberrylab.com/solutions/cloud-storage/amazon-s3.aspx)** <br/>
