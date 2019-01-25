@@ -12,7 +12,7 @@ author_profile: true
 
 **Data Transfers**
 
-**Data Security and Compliance**br/>
+**Data Security and Compliance**<br/>
 <br>Columbia University has signed a [Business Associate Agreement (BAA)](https://cuit.columbia.edu/aws) with Amazon Web Service (AWS) in which the lab has appropriately enrolled.
 
 ### **Our AWS Set-Up**
