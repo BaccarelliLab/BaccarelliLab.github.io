@@ -166,6 +166,9 @@ collections:
   datamanagement:
     output: true
     permalink: /:collection/:path/
+   aws:
+    output: true
+    permalink: /:collection/:path/
   about:
     output: true
     permalink: /:collection/:path/
@@ -204,6 +207,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+   # _AWS
+  - scope:
+      path: ""
+      type: aws
     values:
       layout: single
       author_profile: true
