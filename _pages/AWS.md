@@ -6,14 +6,14 @@ permalink: /aws/
 author_profile: true
 ---
 
-## Welcome to the Baccarelli Lab Amazon Web Services (AWS) Page
+# Welcome to the Baccarelli Lab Amazon Web Services (AWS) Page
 
-### **For Collaborators**
+## For Collaborators
 
-**Data Transfers**
+### Data Transfers
 
 
-### **Our AWS Set-Up**
+## **Our AWS Set-Up**
 
 --- 
 **[Elastic Compute Cloud](https://aws.amazon.com/ec2/)** <br/>
@@ -35,5 +35,4 @@ author_profile: true
 **[CloudBerry](https://www.cloudberrylab.com/solutions/cloud-storage/amazon-s3.aspx)** <br/>
 <br>CloudBerry provides secure, highly configurable links for the encrypted transfer of sensitive files. This is particularly useful for the fast, safe sharing of data with our collaborators.
 
-**Data Security and Compliance**<br/>
-<br>Columbia University has signed a [Business Associate Agreement (BAA)](https://cuit.columbia.edu/aws) with Amazon Web Service (AWS) in which the lab has appropriately enrolled.
+###### Data Security and Compliance - Columbia University has signed a [Business Associate Agreement (BAA)](https://cuit.columbia.edu/aws) with Amazon Web Service (AWS) in which the lab is appropriately enrolled.
