@@ -9,7 +9,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 
 # Site Settings
-locale                   : "EN"
+
 title                    : "Laboratory of Precision Environmental Health - Baccarelli Lab"
 title_separator          : "-"
 name                     : &name "Julia Knox"
