@@ -6,6 +6,7 @@ main:
   - title: "Data Management"
     url: /datamanagement/   
     
-     - title: "aws"
+     - title: "Amazon Web Services"
     url: /AWS/ 
     
+  
