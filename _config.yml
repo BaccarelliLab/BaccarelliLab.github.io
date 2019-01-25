@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Laboratory of Precision Environmental Health - Baccarelli Lab"
 title_separator          : "-"
-name                     : &name "Julia Knox"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://BaccarelliLab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -157,15 +157,13 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+
 # Collections
 collections:
-publications:
+  publications:
     output: true
     permalink: /:collection/:path/
   datamanagement:
-    output: true
-    permalink: /:collection/:path/
-   AWS:
     output: true
     permalink: /:collection/:path/
   about:
@@ -206,15 +204,6 @@ defaults:
   - scope:
       path: ""
       type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-   # _AWS
-  - scope:
-      path: ""
-      type: AWS
     values:
       layout: single
       author_profile: true
