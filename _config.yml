@@ -163,7 +163,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  data-management:
+  datamanagement:
     output: true
     permalink: /:collection/:path/
   about:
@@ -191,7 +191,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _data-management
+  # _datamanagement
   - scope:
       path: ""
       type: data management
