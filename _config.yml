@@ -154,7 +154,7 @@ kramdown:
 
 # Collections
 collections:
-  publications:
+publications:
     output: true
     permalink: /:collection/:path/
   datamanagement:
