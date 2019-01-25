@@ -6,14 +6,14 @@ permalink: /aws/
 author_profile: true
 ---
 
-# Welcome to the Baccarelli Lab Amazon Web Services (AWS) Page
+## Welcome to the Baccarelli Lab Amazon Web Services (AWS) Page
 
-## For Collaborators
+### For Collaborators
 
-### Data Transfers
+#### Data Transfers
 
 
-## **Our AWS Set-Up**
+### **Our AWS Set-Up**
 
 --- 
 **[Elastic Compute Cloud](https://aws.amazon.com/ec2/)** <br/>
