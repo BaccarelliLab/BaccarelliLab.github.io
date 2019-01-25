@@ -163,7 +163,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  data management:
+  data-management:
     output: true
     permalink: /:collection/:path/
   about:
