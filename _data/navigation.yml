@@ -4,5 +4,8 @@ main:
     url: /publications/
 
   - title: "Data Management"
-    url: /datamanagement/    
+    url: /datamanagement/   
+    
+     - title: "AWS"
+    url: /AWS/ 
     
