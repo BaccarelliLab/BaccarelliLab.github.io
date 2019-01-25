@@ -5,16 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
 # Site Settings
- name: Update en_US.UTF-8 locale
- become: yes
- locale_gen: name=en_US.UTF-8 state=present
-
-- name: Set locale en_US.UTF-8
-  become: yes
-  command: update-locale LANG=en_US.UTF-8 LC_ALL=en_US.UTF-8
-  
+locale                   : "en-US"
 title                    : "Laboratory of Precision Environmental Health - Baccarelli Lab"
 title_separator          : "-"
 name                     : &name "Julia Knox"
