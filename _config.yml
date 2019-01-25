@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en_US"
+locale                   : "0x0409"
 title                    : "Laboratory of Precision Environmental Health - Baccarelli Lab"
 title_separator          : "-"
 name                     : &name "Julia Knox"
