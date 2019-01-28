@@ -14,8 +14,10 @@ author_profile: true
 ### For Collaborators
 
 Enjoy easy data support with easy access to simple guides for sharing and receiving data, as well as convenient shortcuts.
-               -> ([IAM Users Sign-in Link](https://baccarellilab.signin.aws.amazon.com/console)) <-
-<br> Things you can do:
+
+[IAM Users Sign-in Link](https://baccarellilab.signin.aws.amazon.com/console)
+
+<p>Things you can do:
 
 - **Obtain Data** (`AWS S3`) 
 - **Share Data** (`AWS S3`)
