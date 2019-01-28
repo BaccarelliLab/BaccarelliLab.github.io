@@ -17,9 +17,11 @@ Enjoy easy access to resources for sharing and receiving data.
 
 <p>Things you can do:
 
-- **Obtain Data** (`AWS S3`) 
-- **Share Data** (`AWS S3`)
-- **[Contact Us](jmk2273@cumc.columbia.edu)**
+- **Obtain Data** (`AWS S3`) <br>
+
+- **Share Data** (`AWS S3`) <br>
+
+- **[Contact Us](jmk2273@cumc.columbia.edu)** <br>
 
 
 ## Templates 
