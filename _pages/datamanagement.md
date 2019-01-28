@@ -13,14 +13,14 @@ author_profile: true
 
 Enjoy easy access to resources for sharing and receiving data.
 
-[IAM Users Sign-in Link](https://baccarellilab.signin.aws.amazon.com/console)
+[IAM Users Sign-in Link]()
 
 Things you can do:
 
-- **Obtain Data** (`AWS S3`) 
+- **[Obtain Data](https://baccarellilab.signin.aws.amazon.com/console)**
 
 
-- **Share Data** (`AWS S3`) 
+- **[Share Data](https://baccarellilab.signin.aws.amazon.com/console)**
 
 
 - **[Request One-Time Data Access with Approved Data Analysis Plan](https://baccarellilab.wufoo.com/forms/z1y9qxm607emvih/)**
