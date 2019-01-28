@@ -21,7 +21,7 @@ Things you can do:
 - **Share Data** (`AWS S3`)
 - **Data Requests** [`This Form`](https://baccarellilab.wufoo.com/forms/z1y9qxm607emvih/)
 - **FAQs** (`Ctrl+K`)
-- **Contact** (`Email the Data Manager`)
+- **Contact** [`Email the Data Manager`](jmk2273@cumc.columbia.edu)
 
 ## Templates 
 
