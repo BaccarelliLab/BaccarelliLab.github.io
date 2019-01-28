@@ -13,8 +13,6 @@ author_profile: true
 
 Enjoy easy access to resources for sharing and receiving data.
 
-[IAM Users Sign-in Link]()
-
 Things you can do:
 
 - **[Obtain Data](https://baccarellilab.signin.aws.amazon.com/console)**
