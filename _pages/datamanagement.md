@@ -5,15 +5,13 @@ permalink: /datamanagement/
 author_profile: true
 ---
 
-## Baccarelli Lab Data Management Page ##
+## Welcome to the Baccarelli Lab Data Management Page ##
 
 **Our Data Management system** utilizes Amazon Web Services (AWS) to provide full-featured data storage, sharing, and compute capacity. For more details on our AWS system, please visit the [AWS section](https://baccarellilab.github.io/aws/).
 
-### Welcome ###
+### [For Collaborators](https://s3.amazonaws.com/baccarellilabgithubio/Amazon+Web+Services+(AWS)+-+Access+for+Collaborators+Guide.pdf)
 
-### For Collaborators
-
-Enjoy easy data support with easy access to simple guides for sharing and receiving data, as well as convenient shortcuts.
+Enjoy easy access to resources for sharing and receiving data.
 
 [IAM Users Sign-in Link](https://baccarellilab.signin.aws.amazon.com/console)
 
