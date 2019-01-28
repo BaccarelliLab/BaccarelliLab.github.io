@@ -8,14 +8,8 @@ author_profile: true
 
 ## Welcome to the Baccarelli Lab Amazon Web Services (AWS) Page
 
-### For Collaborators
-
-#### Data Transfers
-
 
 ### **Our AWS Set-Up**
-
-[AWS Architecture](https://cloudcraft.co/api/blueprint/abf74b66-a7a1-473a-a628-114851954455/png?grid=true&transparent=true&width=1792&height=1063)
 
 --- 
 **[Elastic Compute Cloud](https://aws.amazon.com/ec2/)** <br/>
