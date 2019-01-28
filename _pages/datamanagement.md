@@ -21,7 +21,7 @@ Enjoy easy access to resources for sharing and receiving data.
 
 - **Share Data** (`AWS S3`) <br>
 
-- **[Contact Us](jmk2273@cumc.columbia.edu)** <br>
+- **[Contact Us](mailto:jmk2273@cumc.columbia.edu)** <br>
 
 
 ## Templates 
