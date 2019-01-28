@@ -15,15 +15,19 @@ Enjoy easy access to resources for sharing and receiving data.
 
 [IAM Users Sign-in Link](https://baccarellilab.signin.aws.amazon.com/console)
 
-<p>Things you can do:
+Things you can do:
 
-- **Obtain Data** (`AWS S3`) <br>
+- **Obtain Data** (`AWS S3`) 
 
-- **Share Data** (`AWS S3`) <br>
+
+- **Share Data** (`AWS S3`) 
+
 
 - **[Request One-Time Data Access with Approved Data Analysis Plan](https://baccarellilab.wufoo.com/forms/z1y9qxm607emvih/)**
 
-- **[Contact Us](mailto:jmk2273@cumc.columbia.edu)** <br>
+
+- **[Contact Us](mailto:jmk2273@cumc.columbia.edu)** 
+
 
 
 ## Templates 
