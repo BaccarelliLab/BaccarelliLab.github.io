@@ -5,23 +5,22 @@ permalink: /datamanagement/
 author_profile: true
 ---
 
-### For Collaborators
-
 ## Baccarelli Lab Data Management Page ##
 
 **Our Data Management system** utilizes Amazon Web Services (AWS) to provide full-featured data storage, sharing, and compute capacity. For more details on our AWS system, please visit the [AWS section](https://baccarellilab.github.io/aws/).
 
 ### Welcome ###
 
-Enjoy easy data support with easy access to simple guides for sharing and receiving data, as well as convenient shortcuts.
+### For Collaborators
 
-Things you can do:
+Enjoy easy data support with easy access to simple guides for sharing and receiving data, as well as convenient shortcuts.
+               -> ([IAM Users Sign-in Link](https://baccarellilab.signin.aws.amazon.com/console)) <-
+<br> Things you can do:
 
 - **Obtain Data** (`AWS S3`) 
 - **Share Data** (`AWS S3`)
-- **Data Requests** [`This Form`](https://baccarellilab.wufoo.com/forms/z1y9qxm607emvih/)
-- **FAQs** (`Ctrl+K`)
-- **Contact** [`Email the Data Manager`](jmk2273@cumc.columbia.edu)
+- **[Contact Us](jmk2273@cumc.columbia.edu)**
+
 
 ## Templates 
 
