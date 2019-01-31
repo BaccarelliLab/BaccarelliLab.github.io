@@ -13,7 +13,7 @@ author_profile: true
 
 --- 
 **[Elastic Compute Cloud](https://aws.amazon.com/ec2/)** <br/>
-<br>EC2 is a scalable, high-performance cloud computing service. EC2's customized instances provide capacity for faster analysis of large genomic datasets. See the [User Guide for Lab Members](https://s3.amazonaws.com/baccarellilabgithubio/Amazon+Web+Services+(AWS)+-+EC2+Configurations+for+Lab+Members.pdf).
+<br>EC2 is a scalable, high-performance cloud computing service. EC2's customized instances provide capacity for faster analysis of large genomic datasets. To easiliy spin up a new instance, a template Amazon Machine Image is developed for lab members to launch and immediately access RStudio and their desired libraries. For more details, and to see how to launch your own unique instance, see the [User Guide for Lab Members](https://s3.amazonaws.com/baccarellilabgithubio/Amazon+Web+Services+(AWS)+-+EC2+Configurations+for+Lab+Members.pdf).
 
 ---
 **[Identity and Access Management](https://aws.amazon.com/iam/)** <br/>
