@@ -9,13 +9,16 @@ author_profile: true
 
 **Our Data Management system** utilizes Amazon Web Services (AWS) to provide full-featured data storage, sharing, and compute capacity. For more details on our AWS system, please visit the [AWS section](https://baccarellilab.github.io/aws/).
 
-### [For Collaborators](https://s3.amazonaws.com/baccarellilabgithubio/Amazon+Web+Services+(AWS)+-+Access+for+Collaborators+Guide.pdf)
+### For Collaborators
 
 Enjoy easy access to resources for sharing and receiving data.
 
 Things you can do:
 
 - **[Obtain Data](https://baccarellilab.signin.aws.amazon.com/console)**
+
+
+- **[Configure IAM Access](https://s3.amazonaws.com/baccarellilabgithubio/AWS+Access+for+Collaborators+IAM+Guide.pdf)**
 
 
 - **[Share Data](https://baccarellilab.signin.aws.amazon.com/console)**
