@@ -218,6 +218,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+   # _Research_Resources
+  - scope:
+      path: ""
+      type: research_resources
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 
 # Sass/SCSS
