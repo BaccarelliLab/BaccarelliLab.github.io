@@ -6,7 +6,7 @@ author_profile: true
 
 ## Research Resources
 
-### <b>[Journals to Consider: Journal List Compilation for Researchers](https://s3.amazonaws.com/baccarellilabgithubio/Journals_to_Consider.xlsx)</b> <br>
+### <b>[Journals to Consider: Journal List Compilation for Researchers](https://docs.google.com/spreadsheets/d/1TFDqmOGD-qh81WzJ6dHQNQcl6_1nrfQ3cSn7uPlAVUY/edit?usp=sharing)</b> <br>
 This resource was developed specifically for our laboratory, and is intended for those in the intersecting fields of environmental health and epigenetics.
 
 
