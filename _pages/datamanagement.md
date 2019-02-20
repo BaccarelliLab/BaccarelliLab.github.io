@@ -39,4 +39,4 @@ This data analysis plan is available as a template for external use.
 
 ## For Lab Members
 
-Past analysis plans and cohort details are available on the Lab Shared Drive in <i>Lab Data<i\> and also <i>Helpful References<i\>. If you need access, contact the [IT Service Desk](mailto:cumcprod@service-now.com).
+Past analysis plans and cohort details are available on the Lab Shared Drive in <i>Lab Data<i/> and also <i>Helpful References<i/>. If you need access, contact the [IT Service Desk](mailto:cumcprod@service-now.com).
