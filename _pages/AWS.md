@@ -43,5 +43,9 @@ author_profile: true
 
 **[Baccarelli Lab Members - Request an EC2 Instance](https://baccarellilab.wufoo.com/forms/m1gksev10pcj0dq/)**
 
+**[Baccarelli Lab Members - Request a Data Transfer to a Collaborator](https://baccarellilab.wufoo.com/forms/qf541g70vfv5w9/)**
+
+**[Baccarelli Lab Members - Provide Collaborator with Data Transfer Request Instructions](https://baccarellilab.github.io/datamanagement/)**
+
 ---
 ###### Data Security and Compliance - Columbia University has signed a [Business Associate Agreement (BAA)](https://cuit.columbia.edu/aws) with Amazon Web Service (AWS) in which the lab is appropriately enrolled.
