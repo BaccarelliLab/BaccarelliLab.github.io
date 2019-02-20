@@ -36,3 +36,7 @@ Things you can do:
 This data analysis plan is available as a template for external use.
 
 [External Data Analysis Plan](https://s3.amazonaws.com/baccarellilabgithubio/TEMPLATE+Analysis+Plans_External.pdf)
+
+## For Lab Members
+
+Past analysis plans and cohort details are available on the Lab Shared Drive. If you need access, contact the [IT Service Desk](mailto:cumcprod@service-now.com?Subject=Baccarelli Lab Shared Drive Access Request)
