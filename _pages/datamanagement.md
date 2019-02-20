@@ -39,4 +39,4 @@ This data analysis plan is available as a template for external use.
 
 ## For Lab Members
 
-Past analysis plans and cohort details are available on the Lab Shared Drive. If you need access, contact the [IT Service Desk](mailto:cumcprod@service-now.com?subject=Baccarelli Lab Shared Drive Access Request)
+Past analysis plans and cohort details are available on the Lab Shared Drive. If you need access, contact the [IT Service Desk](mailto:cumcprod@service-now.com)
