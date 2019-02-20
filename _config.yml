@@ -218,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-   # _Research_Resources
+   # _Research Resources
   - scope:
       path: ""
-      type: research_resources
+      type: research resources
     values:
       layout: single
       author_profile: true
