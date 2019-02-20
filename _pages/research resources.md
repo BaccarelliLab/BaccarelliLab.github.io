@@ -1,6 +1,6 @@
 ---
-title: "Research_Resources"
-permalink: /research_resources/
+title: "Research Resources"
+permalink: /research resources/
 author_profile: true
 ---
 
