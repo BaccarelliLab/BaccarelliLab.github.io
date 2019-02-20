@@ -39,5 +39,9 @@ author_profile: true
 
 **[AWS Immersion Day Presentation](https://s3.amazonaws.com/baccarellilabgithubio/AWS+IMMERSION+DAY+SLIDESHOW+AS+PDF.pdf)**<br/>
 
+### **AWS Request Forms For Lab Members**
+
+**[Baccarelli Lab Members - Request an EC2 Instance](https://baccarellilab.wufoo.com/forms/m1gksev10pcj0dq/)
+
 ---
 ###### Data Security and Compliance - Columbia University has signed a [Business Associate Agreement (BAA)](https://cuit.columbia.edu/aws) with Amazon Web Service (AWS) in which the lab is appropriately enrolled.
