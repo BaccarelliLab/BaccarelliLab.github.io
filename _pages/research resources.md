@@ -6,7 +6,7 @@ author_profile: true
 
 ## Research Resources
 
-### <b>[[Baccarelli Lab Data Analysis: Introductory Guide for New Members](https://s3.amazonaws.com/baccarellilabgithubio/Research+Resources/DataAnalysis_Introductory_Document_ForGitHub.IO.pdf)</b> <br>
+### <b>[Baccarelli Lab Data Analysis: Introductory Guide for New Members](https://s3.amazonaws.com/baccarellilabgithubio/Research+Resources/DataAnalysis_Introductory_Document_ForGitHub.IO.pdf)</b> <br>
 
 ### <b>[Journals to Consider: Journal List Compilation for Researchers](https://docs.google.com/spreadsheets/d/1UA_l6uHbN4RS9YIyJHJJPBzYQdQ-FmBYxxZahkbL9tM/edit?usp=sharing)</b> <br>
 This resource was developed specifically for our laboratory, and is intended for those in the intersecting fields of environmental health and epigenetics.
