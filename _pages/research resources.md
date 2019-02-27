@@ -19,8 +19,11 @@ This resource was developed specifically for our laboratory, and is intended for
   #announcements : general lab announcements <br>
   #projectdev-wkyupdates : scheduling and discussion in the wet lab <br>
 
+#### Resources Beyond the Lab
 
-### <b>[Columbia University August C. Long Health Sciences Library - Explore Research Resources](https://library.cumc.columbia.edu/computing-study-tools)</b> <br>
+##### <b>[Columbia University August C. Long Health Sciences Library - Explore Research Resources](https://library.cumc.columbia.edu/computing-study-tools)</b> <br>
+
+##### <b>The Columbia Irving Institute offers 1-2 free-of-charge consultations with [Faculty Member in Biostatistics & master’s level statistician](https://www.mailman.columbia.edu/people/our-faculty/search/?filter_department=Biostatistics). They offer support for study design, sample-size calculation, statistical analyses, manuscripts, and grants. [Request an Appointment Here.](https://www.irvinginstitute.columbia.edu/services/biostatistics-consultation)
 
 #### Thank You!
 
