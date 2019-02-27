@@ -12,7 +12,7 @@ author_profile: true
 This resource was developed specifically for our laboratory, and is intended for those in the intersecting fields of environmental health and epigenetics.
 
 ### <b>[Join our Slack Channel](https://join.slack.com/t/baccarellilab/signup)</b> <br>
-#### <b> Slack Channels: <br>
+##### <b> Slack Channels: <br>
   #aws : for managing aws <br>
   #code : for data analysis <br>
   #lab : weekly lab calendar <br>
