@@ -35,7 +35,7 @@ author_profile: true
 
 **[EC2 Introduction for the Baccarelli Lab](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/Amazon+Web+Services+(AWS)+-+EC2+Configurations+for+Lab+Members.pdf)**<br/>
 
-**[EC2 FAQs for the Baccarelli Lab](s3://baccarellilabgithubio/AWS_Tutorials/EC2 FAQs for the Baccarelli Lab (1).pdf)**<br/>
+**[EC2 FAQs for the Baccarelli Lab](https://s3://baccarellilabgithubio/AWS_Tutorials/EC2 FAQs for the Baccarelli Lab (1).pdf)**<br/>
 
 **[AWS Immersion Day Presentation](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/AWS+Immersion+Day+Slideshow_JK.pptx)**<br/>
 
