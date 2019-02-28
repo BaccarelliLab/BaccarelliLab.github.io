@@ -37,7 +37,7 @@ author_profile: true
 
 **[EC2 FAQs for the Baccarelli Lab](https://s3://baccarellilabgithubio/AWS_Tutorials/EC2 FAQs for the Baccarelli Lab (1).pdf)**<br/>
 
-**[AWS Immersion Day Presentation](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/AWS+Immersion+Day+Slideshow_JK.pptx)**<br/>
+**[AWS Immersion Day Presentation](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/AWS+IMMERSION+DAY+SLIDESHOW+AS+PDF.pdf)**<br/>
 
 ### **AWS Request Forms For Lab Members**
 
