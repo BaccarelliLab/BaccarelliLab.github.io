@@ -13,11 +13,11 @@ This resource was developed specifically for our laboratory, and is intended for
 
 ### <b>[Join our Slack Channel](https://join.slack.com/t/baccarellilab/signup)</b> <br>
 #### <b> Slack Channels: <br> </b>
-#####  #aws : for managing aws <br>
-#####  #code : for data analysis <br>
-#####  #lab : weekly lab calendar <br>
-#####  #announcements : general lab announcements <br>
-#####  #projectdev-wkyupdates : scheduling and discussion in the wet lab <br>
+######  #aws : for managing aws <br>
+######  #code : for data analysis <br>
+######  #lab : weekly lab calendar <br>
+######  #announcements : general lab announcements <br>
+######  #projectdev-wkyupdates : scheduling and discussion in the wet lab <br>
 
 ### Resources Beyond the Lab
 
