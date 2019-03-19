@@ -18,7 +18,7 @@ Things you can do:
 - **[Obtain Data](https://baccarellilab.signin.aws.amazon.com/console)**
 
 
-- **[Configure IAM Access](https://s3.amazonaws.com/baccarellilabgithubio/AWS+Access+for+Collaborators+IAM+Guide.pdf)**
+- **[Configure IAM Access](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/AWS+Access+for+Collaborators+IAM+Guide.pdf)**
 
 
 - **[Share Data](https://baccarellilab.signin.aws.amazon.com/console)**
