@@ -13,22 +13,15 @@ author_profile: true
 
 Enjoy easy access to resources for sharing and receiving data.
 
-Things you can do:
+- **[Login to the AWS Collaborator Console](https://baccarellilab.signin.aws.amazon.com/console)**
 
-- **[Obtain Data](https://baccarellilab.signin.aws.amazon.com/console)**
+- **[Upload Data to AWS S3](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/AWS+Access+for+Collaborators+IAM+Guide.pdf)**
 
-
-- **[Configure IAM Access](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/AWS+Access+for+Collaborators+IAM+Guide.pdf)**
-
-
-- **[Share Data](https://baccarellilab.signin.aws.amazon.com/console)**
-
+- **[Use CloudBerry for Simple SFTP (Upload/Download)](s3://baccarellilabgithubio/AWS_Tutorials/CloudBerry for Collaborators.pdf)** 
 
 - **[Request One-Time Data Access with Approved Data Analysis Plan](https://baccarellilab.wufoo.com/forms/z1y9qxm607emvih/)**
 
-
 - **[Contact Us](mailto:jmk2273@cumc.columbia.edu)** 
-
 
 
 ## Templates 
