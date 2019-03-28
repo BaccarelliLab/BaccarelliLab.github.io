@@ -17,7 +17,7 @@ Enjoy easy access to resources for sharing and receiving data.
 
 - **[Upload Data to AWS S3](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/AWS+Access+for+Collaborators+IAM+Guide.pdf)**
 
-- **[Use CloudBerry for Simple SFTP](s3://baccarellilabgithubio/AWS_Tutorials/CloudBerry for Collaborators.pdf)** 
+- **[Use CloudBerry for Simple SFTP](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/CloudBerry+for+Collaborators.pdf)** 
 
 - **[Request One-Time Data Access with Approved Data Analysis Plan](https://baccarellilab.wufoo.com/forms/z1y9qxm607emvih/)**
 
