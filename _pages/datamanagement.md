@@ -13,15 +13,15 @@ author_profile: true
 
 Enjoy easy access to resources for sharing and receiving data.
 
-- **[Login to the AWS Collaborator Console](https://baccarellilab.signin.aws.amazon.com/console)**
+**[Login to the AWS Collaborator Console](https://baccarellilab.signin.aws.amazon.com/console)**
 
-- **[Upload Data to AWS S3](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/AWS+Access+for+Collaborators+IAM+Guide.pdf)**
+**[Upload Data to AWS S3](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/AWS+Access+for+Collaborators+IAM+Guide.pdf)**
 
-- **[Use CloudBerry for Simple SFTP](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/CloudBerry+for+Collaborators.pdf)** 
+**[Use CloudBerry for Simple SFTP](https://s3.amazonaws.com/baccarellilabgithubio/AWS_Tutorials/CloudBerry+for+Collaborators.pdf)** 
 
-- **[Request One-Time Data Access with Approved Data Analysis Plan](https://baccarellilab.wufoo.com/forms/z1y9qxm607emvih/)**
+**[Request One-Time Data Access with Approved Data Analysis Plan](https://baccarellilab.wufoo.com/forms/z1y9qxm607emvih/)**
 
-- **[Contact Us](mailto:jmk2273@cumc.columbia.edu)** 
+**[Contact Us](mailto:jmk2273@cumc.columbia.edu)** 
 
 
 ## Templates 
