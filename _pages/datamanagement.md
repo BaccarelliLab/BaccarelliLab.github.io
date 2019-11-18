@@ -28,7 +28,7 @@ Enjoy easy access to resources for sharing and receiving data.
 
 This data analysis plan is available as a template for external use.
 
-[External Data Analysis Plan](https://s3.amazonaws.com/baccarellilabgithubio/TEMPLATE+Analysis+Plans_External.pdf)
+[External Data Analysis Plan](https://baccarellilabgithubio.s3.amazonaws.com/Research+Resources/TEMPLATE+Analysis+Plans_External.pdf)
 
 ## For Lab Members
 
